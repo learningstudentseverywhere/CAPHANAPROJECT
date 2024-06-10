@@ -6,5 +6,5 @@ entity Students{
 }
 
 entity Teachers{
-    key teacher_id : String(10);
+    key teacher_id : String(12);
 }
